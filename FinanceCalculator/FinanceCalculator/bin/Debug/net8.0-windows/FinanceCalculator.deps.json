@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FinanceCalculator/1.0.0": {
+        "runtime": {
+          "FinanceCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinanceCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

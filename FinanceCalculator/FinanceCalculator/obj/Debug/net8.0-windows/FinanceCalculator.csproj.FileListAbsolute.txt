@@ -1,0 +1,16 @@
+C:\Users\Lakshm.Padmanab8828\BPA Projects\FinanceCalculator\FinanceCalculator\bin\Debug\net8.0-windows\FinanceCalculator.exe
+C:\Users\Lakshm.Padmanab8828\BPA Projects\FinanceCalculator\FinanceCalculator\bin\Debug\net8.0-windows\FinanceCalculator.deps.json
+C:\Users\Lakshm.Padmanab8828\BPA Projects\FinanceCalculator\FinanceCalculator\bin\Debug\net8.0-windows\FinanceCalculator.runtimeconfig.json
+C:\Users\Lakshm.Padmanab8828\BPA Projects\FinanceCalculator\FinanceCalculator\bin\Debug\net8.0-windows\FinanceCalculator.dll
+C:\Users\Lakshm.Padmanab8828\BPA Projects\FinanceCalculator\FinanceCalculator\bin\Debug\net8.0-windows\FinanceCalculator.pdb
+C:\Users\Lakshm.Padmanab8828\BPA Projects\FinanceCalculator\FinanceCalculator\obj\Debug\net8.0-windows\FinanceCalculator.Form1.resources
+C:\Users\Lakshm.Padmanab8828\BPA Projects\FinanceCalculator\FinanceCalculator\obj\Debug\net8.0-windows\FinanceCalculator.csproj.GenerateResource.cache
+C:\Users\Lakshm.Padmanab8828\BPA Projects\FinanceCalculator\FinanceCalculator\obj\Debug\net8.0-windows\FinanceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lakshm.Padmanab8828\BPA Projects\FinanceCalculator\FinanceCalculator\obj\Debug\net8.0-windows\FinanceCalculator.AssemblyInfoInputs.cache
+C:\Users\Lakshm.Padmanab8828\BPA Projects\FinanceCalculator\FinanceCalculator\obj\Debug\net8.0-windows\FinanceCalculator.AssemblyInfo.cs
+C:\Users\Lakshm.Padmanab8828\BPA Projects\FinanceCalculator\FinanceCalculator\obj\Debug\net8.0-windows\FinanceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Lakshm.Padmanab8828\BPA Projects\FinanceCalculator\FinanceCalculator\obj\Debug\net8.0-windows\FinanceCalculator.dll
+C:\Users\Lakshm.Padmanab8828\BPA Projects\FinanceCalculator\FinanceCalculator\obj\Debug\net8.0-windows\refint\FinanceCalculator.dll
+C:\Users\Lakshm.Padmanab8828\BPA Projects\FinanceCalculator\FinanceCalculator\obj\Debug\net8.0-windows\FinanceCalculator.pdb
+C:\Users\Lakshm.Padmanab8828\BPA Projects\FinanceCalculator\FinanceCalculator\obj\Debug\net8.0-windows\FinanceCalculator.genruntimeconfig.cache
+C:\Users\Lakshm.Padmanab8828\BPA Projects\FinanceCalculator\FinanceCalculator\obj\Debug\net8.0-windows\ref\FinanceCalculator.dll
