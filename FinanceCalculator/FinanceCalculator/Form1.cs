@@ -40,7 +40,7 @@ namespace FinanceCalculator
                 return false;
             }
         }
-
+        //btn0-9_click methods check if theres a zero in the box and if there is, it replaces it. otherwise, it appends
         private void btn0_Click(object sender, EventArgs e)
         {
             if (replaceZeroOrNot())
@@ -161,14 +161,19 @@ namespace FinanceCalculator
             }
         }
 
+        /*This checks if there is a period inside of the value. If there is, it doesn't append the value with it and instead shows a 
+        message box saying that is invalid*/
         private void btnPeriod_Click(object sender, EventArgs e)
         {
             if (!outputBox.Text.Contains("."))
             {
                 outputBox.Text += btnPeriod.Text;
+            } else {
+                MessageBox.Show("You cannot have two periods in one value.");
             }
         }
 
+        //This button clears everything and resets everythinig
         private void btnClear_Click(object sender, EventArgs e)
         {
             outputBox.Text = "0";
@@ -182,6 +187,8 @@ namespace FinanceCalculator
 
         private void btnDivide_Click(object sender, EventArgs e)
         {
+            /*This value checks if its the first time or second time the user has clicked the button.
+            The calcuulator needs to know this so that it doesn't run into any possible errors*/
             firstOrSecondTimeDivision++;
             divisionOrNot = false;
             multiplyOrNot = false;
